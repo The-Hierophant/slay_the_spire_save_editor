@@ -1,0 +1,964 @@
+{
+  "shuffle_seed_count": 0,
+  "metric_purchased_purges": 0,
+  "metric_path_per_floor": [
+    "M",
+    "M",
+    "?",
+    "M",
+    "M",
+    "R",
+    "E",
+    "M",
+    "T",
+    "M",
+    "$",
+    "R",
+    "E",
+    "M",
+    "R",
+    "B",
+    null,
+    "M",
+    "?",
+    "M",
+    "M",
+    "$",
+    "M"
+  ],
+  "monster_list": [
+    "Snake Plant",
+    "Shelled Parasite and Fungi",
+    "Centurion and Healer",
+    "Snake Plant",
+    "Shelled Parasite and Fungi",
+    "Snecko",
+    "Centurion and Healer",
+    "Snake Plant",
+    "3 Cultists",
+    "Shelled Parasite and Fungi",
+    "Snake Plant",
+    "Chosen and Byrds"
+  ],
+  "metric_potions_floor_spawned": [
+    4,
+    10,
+    13,
+    14,
+    16,
+    23
+  ],
+  "daily_mods": [],
+  "metric_campfire_choices": [
+    {
+      "floor": 6.0,
+      "key": "REST"
+    },
+    {
+      "floor": 12.0,
+      "key": "REST"
+    },
+    {
+      "floor": 15.0,
+      "key": "REST"
+    }
+  ],
+  "is_ascension_mode": false,
+  "metric_items_purchased": [
+    "Blur",
+    "Enlightenment",
+    "Shuriken",
+    "Mummified Hand",
+    "The Bomb",
+    "Malaise",
+    "Phantasmal Killer",
+    "Sucker Punch",
+    "Riddle With Holes"
+  ],
+  "is_endless_mode": false,
+  "combat_rewards": [
+    {
+      "type": "GOLD",
+      "amount": 20,
+      "bonusGold": 0
+    },
+    {
+      "type": "POTION",
+      "id": "AttackPotion",
+      "amount": 0,
+      "bonusGold": 0
+    }
+  ],
+  "merchant_seed_count": 32,
+  "bottled_lightning": "Acrobatics",
+  "floor_num": 23,
+  "uncommon_relics": [
+    "Paper Crane",
+    "Bottled Tornado",
+    "Sundial",
+    "Bottled Flame",
+    "Darkstone Periapt",
+    "Letter Opener",
+    "Ninja Scroll",
+    "Ornamental Fan",
+    "Pantograph",
+    "Matryoshka",
+    "Toxic Egg 2",
+    "Molten Egg 2",
+    "Meat on the Bone",
+    "Gremlin Horn",
+    "Pear",
+    "Question Card",
+    "Dodecahedron",
+    "Kunai",
+    "Frozen Egg 2"
+  ],
+  "post_combat": true,
+  "combo": false,
+  "relics": [
+    "Ring of the Snake",
+    "Blood Vial",
+    "Bottled Lightning",
+    "Mercury Hourglass",
+    "HoveringKite",
+    "Shuriken",
+    "Mummified Hand"
+  ],
+  "rare_relics": [
+    "Nunchaku",
+    "Peace Pipe",
+    "Ice Cream",
+    "Torii",
+    "Calipers",
+    "Bird Faced Urn",
+    "Gambling Chip",
+    "Incense Burner",
+    "FossilizedHelix",
+    "Unceasing Top",
+    "Girya",
+    "Mango",
+    "WingedGreaves",
+    "Old Coin",
+    "Tough Bandages",
+    "Thread and Needle",
+    "Ginger",
+    "The Specimen",
+    "Pocketwatch",
+    "Tingsha"
+  ],
+  "level_name": "TheCity",
+  "metric_campfire_rested": 3,
+  "max_orbs": 0,
+  "boss": "Automaton",
+  "seed": -2120310818703362702,
+  "metric_current_hp_per_floor": [
+    68,
+    67,
+    67,
+    67,
+    26,
+    49,
+    21,
+    23,
+    23,
+    23,
+    23,
+    46,
+    10,
+    5,
+    35,
+    9,
+    100,
+    92,
+    22,
+    17,
+    16,
+    16
+  ],
+  "current_health": 84,
+  "common_relics": [
+    "Centennial Puzzle",
+    "Whetstone",
+    "Happy Flower",
+    "War Paint",
+    "Bag of Preparation",
+    "Ancient Tea Set",
+    "Dream Catcher",
+    "Bronze Scales",
+    "PreservedInsect",
+    "Orichalcum",
+    "Vajra",
+    "Snake Skull",
+    "Lantern",
+    "Boot",
+    "Pen Nib",
+    "Oddly Smooth Stone",
+    "Regal Pillow",
+    "Juzu Bracelet",
+    "Bag of Marbles",
+    "MawBank",
+    "Potion Belt",
+    "Anchor"
+  ],
+  "monsters_killed": 11,
+  "gold": 201,
+  "neow_bonus": "TEN_PERCENT_HP_BONUS",
+  "card_random_seed_count": 0,
+  "card_seed_count": 289,
+  "is_daily": false,
+  "metric_campfire_rituals": 0,
+  "metric_card_choices": [
+    {
+      "not_picked": [
+        "Prepared",
+        "Eviscerate"
+      ],
+      "picked": "Outmaneuver",
+      "floor": 1.0
+    },
+    {
+      "not_picked": [
+        "Caltrops",
+        "Footwork"
+      ],
+      "picked": "Deadly Poison",
+      "floor": 2.0
+    },
+    {
+      "not_picked": [
+        "Deadly Poison",
+        "Outmaneuver"
+      ],
+      "picked": "Underhanded Strike",
+      "floor": 4.0
+    },
+    {
+      "not_picked": [
+        "Escape Plan",
+        "Backflip"
+      ],
+      "picked": "Crippling Poison",
+      "floor": 5.0
+    },
+    {
+      "not_picked": [
+        "Underhanded Strike",
+        "Dodge and Roll"
+      ],
+      "picked": "Slice",
+      "floor": 7.0
+    },
+    {
+      "not_picked": [
+        "Flying Knee",
+        "Dodge and Roll"
+      ],
+      "picked": "Acrobatics",
+      "floor": 8.0
+    },
+    {
+      "not_picked": [
+        "Sucker Punch",
+        "Distraction"
+      ],
+      "picked": "Envenom",
+      "floor": 10.0
+    },
+    {
+      "not_picked": [
+        "Endless Agony",
+        "Dagger Spray"
+      ],
+      "picked": "Tactician",
+      "floor": 13.0
+    },
+    {
+      "not_picked": [
+        "Deflect",
+        "Prepared"
+      ],
+      "picked": "Noxious Fumes",
+      "floor": 14.0
+    },
+    {
+      "not_picked": [
+        "A Thousand Cuts",
+        "Night Terror"
+      ],
+      "picked": "Venomology",
+      "floor": 16.0
+    },
+    {
+      "not_picked": [
+        "Flying Knee",
+        "Blade Dance+1"
+      ],
+      "picked": "Heel Hook+1",
+      "floor": 18.0
+    },
+    {
+      "not_picked": [
+        "All Out Attack",
+        "Dash"
+      ],
+      "picked": "Underhanded Strike+1",
+      "floor": 20.0
+    },
+    {
+      "not_picked": [
+        "Blade Dance",
+        "Infinite Blades"
+      ],
+      "picked": "Acrobatics",
+      "floor": 21
+    }
+  ],
+  "metric_potions_obtained": [
+    {
+      "floor": 4.0,
+      "key": "SteroidPotion"
+    },
+    {
+      "floor": 10.0,
+      "key": "Dexterity Potion"
+    },
+    {
+      "floor": 13.0,
+      "key": "Fire Potion"
+    },
+    {
+      "floor": 14.0,
+      "key": "Strength Potion"
+    },
+    {
+      "floor": 16.0,
+      "key": "AttackPotion"
+    }
+  ],
+  "is_final_act_on": false,
+  "treasure_seed_count": 15,
+  "metric_event_choices": [
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Upgrade Shrine",
+      "player_choice": "Upgraded",
+      "floor": 3.0,
+      "gold_loss": 0.0,
+      "damage_taken": 0.0,
+      "cards_upgraded": [
+        "Outmaneuver"
+      ]
+    },
+    {
+      "damage_healed": 0.0,
+      "max_hp_gain": 0.0,
+      "max_hp_loss": 0.0,
+      "gold_gain": 0.0,
+      "event_name": "Knowing Skull",
+      "player_choice": "CARD CARD CARD CARD CARD CARD ",
+      "floor": 19.0,
+      "potions_obtained": [],
+      "gold_loss": 0.0,
+      "damage_taken": 70.0,
+      "cards_obtained": [
+        "Trip",
+        "Bandage Up",
+        "PanicButton",
+        "Impatience",
+        "Discovery",
+        "Forethought"
+      ]
+    }
+  ],
+  "current_room": "com.megacrit.cardcrawl.rooms.MonsterRoom",
+  "has_emerald_key": false,
+  "boss_relics": [
+    "Astrolabe",
+    "Snecko Eye",
+    "WristBlade",
+    "Orrery",
+    "Coffee Dripper",
+    "Tiny House",
+    "Eternal Feather",
+    "Busted Crown",
+    "Calling Bell",
+    "Lizard Tail",
+    "Fusion Hammer",
+    "Sozu",
+    "White Beast Statue",
+    "Black Star",
+    "Empty Cage",
+    "Philosopher\u0027s Stone",
+    "Velvet Choker",
+    "Runic Pyramid",
+    "Cursed Key"
+  ],
+  "blue": 0,
+  "path_y": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "path_x": [
+    0,
+    0,
+    1,
+    2,
+    3,
+    3
+  ],
+  "metric_item_purchase_floors": [
+    11,
+    11,
+    22,
+    22,
+    22,
+    22,
+    22,
+    22,
+    22
+  ],
+  "gold_gained": 349,
+  "ascension_level": 0,
+  "one_time_event_list": [
+    "Accursed Blacksmith",
+    "Bonfire Elementals",
+    "Designer",
+    "Duplicator",
+    "FaceTrader",
+    "Fountain of Cleansing",
+    "Lab",
+    "N\u0027loth",
+    "SecretPortal",
+    "The Joust",
+    "WeMeetAgain",
+    "The Woman in Blue"
+  ],
+  "card_random_seed_randomizer": 5,
+  "metric_campfire_meditates": 0,
+  "perfect": 0,
+  "mugged": false,
+  "metric_build_version": "2018-11-08",
+  "bottled_lightning_upgrade": 0,
+  "event_list": [
+    "Addict",
+    "Back to Basics",
+    "Beggar",
+    "Colosseum",
+    "Cursed Tome",
+    "Drug Dealer",
+    "Forgotten Altar",
+    "Ghosts",
+    "Masked Bandits",
+    "Nest",
+    "The Library",
+    "The Mausoleum",
+    "Vampires"
+  ],
+  "elite_monster_list": [
+    "Gremlin Leader",
+    "Slavers",
+    "Gremlin Leader",
+    "Slavers",
+    "Gremlin Leader",
+    "Book of Stabbing",
+    "Gremlin Leader",
+    "Book of Stabbing",
+    "Slavers",
+    "Gremlin Leader"
+  ],
+  "metric_seed_played": "-2120310818703362702",
+  "red": 4,
+  "elites3_killed": 0,
+  "relic_counters": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "elites2_killed": 0,
+  "metric_items_purged_floors": [],
+  "potion_seed_count": 31,
+  "blights": [],
+  "elites1_killed": 2,
+  "bottled_lightning_misc": 0,
+  "overkill": false,
+  "neow_cost": "NONE",
+  "metric_floor_reached": 23,
+  "champions": 0,
+  "smoked": false,
+  "spirit_count": 1,
+  "special_seed": 0,
+  "potion_chance": 20,
+  "shop_relics": [
+    "Toolbox",
+    "Chemical X",
+    "ClockworkSouvenir",
+    "Sling",
+    "Strange Spoon",
+    "TwistedFunnel",
+    "Frozen Eye",
+    "Membership Card",
+    "Cauldron",
+    "Lee\u0027s Waffle",
+    "DollysMirror",
+    "MealTicket",
+    "TheAbacus",
+    "PrismaticShard",
+    "OrangePellets",
+    "Toy Ornithopter"
+  ],
+  "custom_mods": [],
+  "metric_path_taken": [
+    "M",
+    "M",
+    "?",
+    "M",
+    "M",
+    "R",
+    "E",
+    "?",
+    "T",
+    "M",
+    "$",
+    "R",
+    "E",
+    "M",
+    "R",
+    "BOSS",
+    "M",
+    "?",
+    "?",
+    "M",
+    "$",
+    "M"
+  ],
+  "name": "Zero",
+  "has_ruby_key": false,
+  "metric_playtime": 3650,
+  "has_sapphire_key": false,
+  "is_trial": false,
+  "metric_max_hp_per_floor": [
+    77,
+    77,
+    77,
+    77,
+    77,
+    77,
+    77,
+    77,
+    77,
+    77,
+    77,
+    77,
+    100,
+    100,
+    100,
+    100,
+    100,
+    100,
+    100,
+    100,
+    100,
+    100
+  ],
+  "save_date": 1543855046051,
+  "cards": [
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Defend_G"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Defend_G"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Defend_G"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Defend_G"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Defend_G"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Strike_G"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Strike_G"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Strike_G"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Strike_G"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Strike_G"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Survivor"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Neutralize"
+    },
+    {
+      "upgrades": 1,
+      "misc": 0,
+      "id": "Outmaneuver"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Deadly Poison"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Underhanded Strike"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Crippling Poison"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Slice"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Acrobatics"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Envenom"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Blur"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Enlightenment"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Tactician"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Noxious Fumes"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Venomology"
+    },
+    {
+      "upgrades": 1,
+      "misc": 0,
+      "id": "Heel Hook"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Trip"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Bandage Up"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "PanicButton"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Impatience"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Discovery"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Forethought"
+    },
+    {
+      "upgrades": 1,
+      "misc": 0,
+      "id": "Underhanded Strike"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Acrobatics"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "The Bomb"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Malaise"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Phantasmal Killer"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Sucker Punch"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Riddle With Holes"
+    }
+  ],
+  "endless_increments": [],
+  "metric_items_purged": [],
+  "purgeCost": 75,
+  "room_x": 3,
+  "blight_counters": [],
+  "room_y": 5,
+  "metric_gold_per_floor": [
+    115,
+    133,
+    133,
+    145,
+    159,
+    159,
+    192,
+    205,
+    205,
+    221,
+    106,
+    106,
+    1136,
+    1156,
+    1156,
+    1261,
+    1261,
+    1276,
+    1276,
+    1288,
+    1303,
+    201
+  ],
+  "metric_potions_floor_usage": [
+    21
+  ],
+  "boss_list": [
+    "Automaton",
+    "Automaton"
+  ],
+  "ai_seed_count": 0,
+  "event_chances": [
+    0.2,
+    0.1,
+    0.089999996,
+    0.06
+  ],
+  "metric_boss_relics": [
+    {
+      "not_picked": [
+        "Runic Dome",
+        "Ring of the Serpent"
+      ],
+      "picked": "HoveringKite"
+    }
+  ],
+  "relic_seed_count": 7,
+  "act_num": 2,
+  "metric_damage_taken": [
+    {
+      "damage": 9.0,
+      "enemies": "Jaw Worm",
+      "floor": 1.0,
+      "turns": 8.0
+    },
+    {
+      "damage": 1.0,
+      "enemies": "Cultist",
+      "floor": 2.0,
+      "turns": 5.0
+    },
+    {
+      "damage": 0.0,
+      "enemies": "2 Louse",
+      "floor": 4.0,
+      "turns": 4.0
+    },
+    {
+      "damage": 41.0,
+      "enemies": "Gremlin Gang",
+      "floor": 5.0,
+      "turns": 8.0
+    },
+    {
+      "damage": 28.0,
+      "enemies": "Lagavulin",
+      "floor": 7.0,
+      "turns": 7.0
+    },
+    {
+      "damage": 0.0,
+      "enemies": "Exordium Wildlife",
+      "floor": 8.0,
+      "turns": 3.0
+    },
+    {
+      "damage": 2.0,
+      "enemies": "Looter",
+      "floor": 10.0,
+      "turns": 3.0
+    },
+    {
+      "damage": 78.0,
+      "enemies": "Gremlin Nob",
+      "floor": 13.0,
+      "turns": 7.0
+    },
+    {
+      "damage": 7.0,
+      "enemies": "Red Slaver",
+      "floor": 14.0,
+      "turns": 4.0
+    },
+    {
+      "damage": 28.0,
+      "enemies": "Slime Boss",
+      "floor": 16.0,
+      "turns": 8.0
+    },
+    {
+      "damage": 8.0,
+      "enemies": "Spheric Guardian",
+      "floor": 18.0,
+      "turns": 5.0
+    },
+    {
+      "damage": 11.0,
+      "enemies": "3 Byrds",
+      "floor": 20.0,
+      "turns": 4.0
+    },
+    {
+      "damage": 47,
+      "enemies": "Snecko",
+      "floor": 21,
+      "turns": 7
+    },
+    {
+      "damage": 18,
+      "enemies": "Snake Plant",
+      "floor": 23,
+      "turns": 5
+    }
+  ],
+  "green": 0,
+  "mystery_machine": 4,
+  "metric_campfire_upgraded": 0,
+  "potion_slots": 3,
+  "chose_neow_reward": false,
+  "event_seed_count": 4,
+  "metric_relics_obtained": [
+    {
+      "floor": 7.0,
+      "key": "Blood Vial"
+    },
+    {
+      "floor": 9.0,
+      "key": "Bottled Lightning"
+    },
+    {
+      "floor": 13.0,
+      "key": "Mercury Hourglass"
+    }
+  ],
+  "daily_date": 17868,
+  "obtained_cards": {
+    "Crippling Poison": 1,
+    "Trip": 1,
+    "Heel Hook": 1,
+    "Enlightenment": 1,
+    "Envenom": 1,
+    "Venomology": 1,
+    "Impatience": 1,
+    "Discovery": 1,
+    "Tactician": 1,
+    "Riddle With Holes": 1,
+    "Sucker Punch": 1,
+    "Noxious Fumes": 1,
+    "Forethought": 1,
+    "Phantasmal Killer": 1,
+    "Deadly Poison": 1,
+    "Slice": 1,
+    "PanicButton": 1,
+    "The Bomb": 1,
+    "Malaise": 1,
+    "Blur": 1,
+    "Outmaneuver": 1,
+    "Bandage Up": 1,
+    "Acrobatics": 2,
+    "Underhanded Strike": 2
+  },
+  "play_time": 3650,
+  "hand_size": 5,
+  "max_health": 100,
+  "monster_seed_count": 64,
+  "potions": [
+    "GamblersBrew",
+    "Potion Slot",
+    "Potion Slot"
+  ]
+}
